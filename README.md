@@ -49,7 +49,7 @@ The CNN model consists of the following layers:
 ### Prerequisites
 
 ```bash
-python 3.7+
+Python >= 3.7
 tensorflow
 kagglehub
 matplotlib
